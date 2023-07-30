@@ -1,1 +1,3 @@
-print ("hello world");
+"""Module test."""
+print('hello world')
+
